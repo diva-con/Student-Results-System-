@@ -1,3 +1,10 @@
+## Student Information
+Name:Iyemifokhae Precious Oshuware 
+Matric Number:24/13688  
+Department:Cyber security 
+Level:200 level 
+
+
 # Student-Results-System-
 SEN Assignment - student results system 
 Student Result Management System – SDLC
